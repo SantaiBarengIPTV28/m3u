@@ -189,3 +189,71 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/rp8HfL4z/large-1.png" group-title="SBIPTV Sports",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eea179e94ee357c53b3f2edc2cf9ed84.png" group-title="Bein Sport",beIN MAX
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports1.png" group-title="Bein Sport", beIN Sport 1 Asia 
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports2.png" group-title="Bein Sport", beIN Sport 2 Asia 
+https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8 
+#EXTINF:-1 group-title="Bein Sport",Bein Sports 1
+https://mediasv.online/live/bein1/playlist.m3u8
+#EXTINF:-1 group-title="Bein Sport",Bein Sports 2
+https://mediasv.online/live/bein2/playlist.m3u8
+#EXTINF:-1 group-title="Bein Sport",Bein Sports 1 (AR)
+http://1.amanrouf.xyz/live/6161655/index.m3u8
+#EXTINF:-1 group-title="Bein Sport",Bein Sports 2 (AR)
+http://2.alhawalouh.xyz/live/616194987/index.m3u8
+#EXTINF:-1 group-title="Bein Sport",Bein Sports 3 (AR)
+http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+#EXTINF:-1 group-title="Bein Sport",Bein pre 1 fire
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
+#EXTINF:-1 group-title="Bein Sport",Bein 2 pre fire 
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
+#EXTINF:-1 group-title="Bein Sport",Bein1
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/3
+#EXTINF:-1 group-title="Bein Sport",Bein3
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5 
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="ar: bein sports 1 fhd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="Bein Sport",beIN Sports 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/100
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="ar: bein sports 2 fhd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/17dc1eb7e7c1be2b20c3d3b184f6d30e.png" group-title="Bein Sport",beIN Sports 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/101
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="ar bein sports 4 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/14ff9bf1b41ac4ce0f0ed21fc112afcd.png" group-title="Bein Sport",beIN Sports 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/399
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="ar: bein sports 3 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="Bein Sport",beIN Sports 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/102
+#EXTINF:-1 tvg-name="ar bein sports 5 hd" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein Sport",beIN Sports 5 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/273271
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="ar: bein sports 6 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/54048002161a540135597a92d0e8dd1e.png" group-title="Bein Sport",beIN Sports 6 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/105
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="ar: bein sports 7 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/5383b47924c567e4ff80e1ba3ea1fd4a.png" group-title="Bein Sport",beIN Sports 7 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/106
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="ar: bein sports 8 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/a7ed150b839370633953b8bb3d2f2322.png" group-title="Bein Sport",beIN Sports 8 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/107
+#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="ar: bein sports 9 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/887cfd409cbbb527a13b56e64c3e1b4c.png" group-title="Bein Sport",beIN Sports 9 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/108
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="ar: bein sports 10 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/bb7043386333fdb21a0d4a2eb0880b12.png" group-title="Bein Sport",beIN Sports 10 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/109
+#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="ar: bein sports 11 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/71b3886dfd8ef7458981d8944068b5ff.png" group-title="Bein Sport",beIN Sports 11 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/110
+#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="ar bein sports 12 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/0887cab963deb238e9bb83095897d5ae.png" group-title="Bein Sport",beIN Sports 12 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/391
+#EXTINF:-1 tvg-name="ar: bein sports 13 hd" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein Sport",beIN Sports 13 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/267769
+#EXTINF:-1 tvg-name="ar: bein sports 14 hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/93cf8ae423e92a4ade6ddb15344bf1c9.png" group-title="Bein Sport",beIN Sports 14 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1869
+#EXTINF:-1 tvg-name="ar: bein sports hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/453c691cfb9b99b4edb2dc66fb3c02cc.png" group-title="Bein Sport",beIN Sports HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11306
+#EXTINF:-1 tvg-name="ar: bein sports max 10" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/10a6b604d8676fda7dcaf6f1733849f3.png" group-title="Bein Sport",beIN Sports Max 10
+http://skylogic.site:8080/esterichannel50con/36cb6c13/13820
+#EXTINF:-1 tvg-name="ar: bein sports news hd" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="Bein Sport",beIN Sports News HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1266 
+
+
+
+
+
+
+
