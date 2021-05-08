@@ -11,7 +11,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/rp8HfL4z/large-1.png" group-title="SBIPTV Sports",FoxSport3 ASIA
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/rp8HfL4z/large-1.png" group-title="SBIPTV Sports",RTM SPORT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/rp8HfL4z/large-1.png" group-title="SBIPTV Sports",RTM SPORT 1
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/rp8HfL4z/large-1.png" group-title="SBIPTV Sports",RTM SPORT 2
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
@@ -189,9 +189,6 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/rp8HfL4z/large-1.png" group-title="SBIPTV Sports",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="MY: beIN MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/eea179e94ee357c53b3f2edc2cf9ed84.png" group-title="Bein Sport",beIN MAX
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157487 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports1.png" group-title="Bein Sport", beIN Sport 1 Asia 
