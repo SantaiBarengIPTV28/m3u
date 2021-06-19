@@ -349,8 +349,12 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
 http://iptv.tvmalaysia.cc:80/139664/139664/6707
 #EXTINF:-1 group-title="Euro&Copa",euro Chanel 6
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-
-
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 7
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 8
+http://oqab.life:8080/live/000999/000999/237.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 9
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Sports",Youtube Chanel Santai Bareng IPTV
