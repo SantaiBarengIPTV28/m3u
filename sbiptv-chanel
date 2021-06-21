@@ -16,8 +16,7 @@ http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-indosiar
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
 https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.4ebe4df57e73e0e1a91bbac8271e717a.SHINTA" tvg-name" SCTV" group-title="Nasional", SCTV
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-sctv
-
+http://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Nasional", ANTV 
 http://nonton.wap.sh/id/001.m3u8
 
@@ -355,6 +354,17 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://oqab.life:8080/live/000999/000999/237.m3u8
 #EXTINF:-1 group-title="Euro&Copa",euro Chanel 9
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 1 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/222
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 2
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/223
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 3 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/224
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 4 
+http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/225
+#EXTINF:-1 group-title="Euro&Copa",beIN Max 5 
+
 
 
 #EXTINF:-1 group-title="Sports",Youtube Chanel Santai Bareng IPTV
