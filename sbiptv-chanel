@@ -405,27 +405,13 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",FOX Sports 3 HD CH817
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
 
-#EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",beIN Sport 1 [Backup - Slow]
-https://nonton.site:8443/provision/pp/728
-
-#EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/85ce73284a53df7227367.png",beIN Sport 2 [Backup - Slow]
-https://nonton.site:8443/provision/pp/729
-
-#EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/ecdbc61394b43b3f2ff96.png",beIN Sport 3 [English - Backup]
-http://bazarhd.online:80/307210575557/307210575557/163900
-
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/0d7094e8aae683dc7a40b.jpg",beIN Sport HD
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7866
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png",beIN Sport 1 [FR]
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31194
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/eeba54c010eba631207cd.png",Eurosport HD CH820
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6784
-#EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/d81ccd872d368b4930587.png",WWE Network CH821
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
-#EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/d46503d9e729f2ac7e749.png",Golf Channel HD CH822
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6796
-#EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/8e8f15b590910ce2690e7.png",RugbyPass TV CH823
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/61e100c080ad4be405dd6.png",Astro Cricket CH824
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319604
 
@@ -439,18 +425,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",FoxSport3 ASIA
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",RTM SPORT
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",RTM SPORT 2
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Eurosport
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8?checkedby=&offset=-147600&useseq=t&version=2
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Match1
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Match2
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",PTVsport
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",NowSportPrime
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Stadium
@@ -461,8 +442,7 @@ http://cdn.tvmatic.net/sport.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",ufc2
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",BOXING HD
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",FIGHT Sports
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Sky 1 Racing
@@ -477,8 +457,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",FC Bayern Munchen TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Rugby World TV
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",Rugby Men's Sevens
@@ -488,10 +467,7 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj",MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 group-title="Sports",Bein Sports 2 (AR)
-http://2.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1 group-title="Sports",Bein Sports 3 (AR)
-http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+
 #EXTINF:-1 group-title="Sports" ,Skynetsport 1
 http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" ,Skynetsport 2
