@@ -392,7 +392,8 @@ http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 group-title="Euro&Copa",euro Chanel 13
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 14
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1 group-title="Euro&Copa",beIN Max 1 
 http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/222
