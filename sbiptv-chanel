@@ -63,7 +63,10 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 #EXTINF:-1 group-title="Entertainment",OH!K TV
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
+#EXTINF:-1 group-title="Entertainment",SBS
+http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=OANLA7MNOY
+#EXTINF:-1 group-title="Entertainment",M net
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", AXN 
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8                      
@@ -381,6 +384,13 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://oqab.life:8080/live/000999/000999/237.m3u8
 #EXTINF:-1 group-title="Euro&Copa",euro Chanel 9
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 10
+http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 11
+http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+#EXTINF:-1 group-title="Euro&Copa",euro Chanel 12
+http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Euro&Copa",beIN Max 1 
 http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/222
@@ -396,8 +406,8 @@ http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/225
 
 #EXTINF:-1 group-title="Sports",Youtube Chanel Santai Bareng IPTV
 http://www.youtube.com/watch?v=Hi7ybh87_e8
-
-
+#EXTINF:-1 group-title="Sports" ,Sony Ten 3
+http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png",FOX Sports HD CH815
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
 #EXTINF:-1, group-title="Sports" tvg-logo="https://telegra.ph/file/0f50aab47d268d6202749.png",FOX Sports 2 HD CH816
