@@ -12,7 +12,7 @@ https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.fc632bc801149ed9c3433423c9c03dac.SHINTA" tvg-name" Indosiar" group-title="Nasional", Indosiar
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-indosiar
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.377132de26646d9f3557c55a683169a8.SHINTA" tvg-name" RCTI" group-title="Nasional", RCTI
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.4ebe4df57e73e0e1a91bbac8271e717a.SHINTA" tvg-name" SCTV" group-title="Nasional", SCTV
@@ -61,6 +61,7 @@ https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png" tvg-id="RIYAN.c86c4034ca638aa5b81c00c37985f83c.SHINTA" tvg-name" TVN" group-title="Entertainment", TVN ID
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+
 #EXTINF:-1 group-title="Entertainment",OH!K TV
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",SBS
