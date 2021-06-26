@@ -49,7 +49,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1622746821~acl=/hls-p/ingest_5409_
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 group-title="Nasional",MyTV
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6711
+http://goldenlivektv.com/Comot_Lagi_Bae/Mytv_channel_ktv.m3u8
 #EXTINF:-1 group-title="Nasional",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
