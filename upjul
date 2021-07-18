@@ -68,7 +68,7 @@ http://112.170.47.242:83//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=OAN
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", AXN 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0                 
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8                 
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
@@ -97,8 +97,7 @@ http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kbsworld.png" group-title="Entertainment", KBS World 
 #EXTINF:-1 group-title="Entertainment", K Drama              
 http://210.210.155.35:80/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8 
-#EXTINF:-1 group-title="Entertainment",Waku-waku
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
+
 
  
 #EXTINF:-1 group-title="Entertainment",Dunia Games TV
@@ -109,17 +108,17 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-40
 #EXTINF:-1 group-title="Knowledge",Youtube Chanel Santai Bareng IPTV
 https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
 #EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeo&bandwidth=default&sync=0
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeopeople&bandwidth=default&sync=0
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=natgeowild&bandwidth=default&sync=0
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",History
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=history
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-https://mkctv.my.id/jarwo/cucok.m3u8?id=disco&bandwidth=b894100&sync=0
+http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  group-title="Knowledge",Animal Planet
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=animalplanet&bandwidth=default&sync=0
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",Love Nature 4K
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6635
 #EXTINF:-1  group-title="Knowledge",Nasa
