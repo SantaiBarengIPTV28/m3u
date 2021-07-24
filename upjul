@@ -69,7 +69,8 @@ http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", AXN 
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8                 
- 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/axn.png" group-title="Entertainment", AXN (UseeTV)
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/kix.png" group-title="Entertainment", Kix 
@@ -113,18 +114,24 @@ http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1  group-title="Knowledge",History
+#EXTINF:-1  group-title="Knowledge",History (UseeTV)
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=history
+#EXTINF:-1  group-title="Knowledge",History
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
 http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="Knowledge",Discovery Chanel(UseeTV)
+https://home-tv.web.id/RHS/youtubempd.m3u8?channel=disco
 #EXTINF:-1  group-title="Knowledge",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1  group-title="Knowledge",Love Nature 4K
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6635
+#EXTINF:-1  group-title="Knowledge",Smithsonian
+https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-6550
 #EXTINF:-1  group-title="Knowledge",Nasa
 http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=e02c631056eedfa1f9ba417db7dbc9057065fe72
-
-
+#EXTINF:-1  group-title="Knowledge",Eat&Go
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=eatgo&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Knowledge",SILENCE TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8 
 
@@ -169,6 +176,14 @@ https://home-tv.web.id/RHS/youtubempd.m3u8?channel=boomerang
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
 #EXTINF:-1 group-title="Kids",Cartoon Network
 https://home-tv.web.id/RHS/youtubempd.m3u8?channel=cartoonnetwork
+#EXTINF:-1 group-title="Kids",Nick Junior
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://distv.net/icons/nick.png" group-title="ANAK ANAK", NICK (ASIA) 
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="ANAK ANAK", DISNEY CHANNEL
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="ANAK ANAK", DISNEY JR
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 group-title="Kids",HipHip Horee
 https://home-tv.web.id/RHS/youtube.m3u8?channel=vidio-7052
 #EXTINF:-1 group-title="Kids",M Kidz
